@@ -30,3 +30,5 @@ Overall i was quite pleased with the way the instagram template came out, some o
 * CSS for styling the page 
 
 ## Loom Video Link 
+
+https://www.loom.com/share/092de06fc61c48f28e223255f4487117?sid=fcf2a12f-7a8d-4f50-9d62-a53a6d5df6f0
